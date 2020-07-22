@@ -23,7 +23,7 @@ def home():
 def about():
     return render_template('about.html')
 
-@app.route('/query/')
+@app.route('/TqDGRJ3maQ9TECKCy6eTBAXEj3dJDmFqkvGs3JR3LYzb8ycZhoUMGMfycovBh9eg/query/')
 def query():
     # Define MongoDB queries of interest
     query = {}
